@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# ignore m3u and xml files
+*.m3u
+*.xml

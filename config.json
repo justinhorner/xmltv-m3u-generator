@@ -1,0 +1,5 @@
+{
+  "xmlFilePath": "xmltv.xml",
+  "hdhomerunUrlPrefix": "http://192.168.1.1:5004/auto/v",
+  "m3uFilename": "antenna.m3u"
+}
